@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:41:16.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uuga7Ke5LC7uQeveImzT" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:57:41.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t2MSCtiEOu73qQrpCGic" version="24.6.5" type="github" pages="3">
   <diagram name="페이지-1" id="vaQAqseoRmlYnzJwH8KV">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,7 +534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fix7OY3RnTEgvABlk70B" name="페이지-3">
-    <mxGraphModel dx="4181" dy="4164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5020" dy="4621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1407,14 +1407,17 @@
             <mxPoint x="1090" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHjujh8nvcX0chYIityc-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" parent="1" target="cgWXPkljZ07_O2q9jskp-57" edge="1">
+        <mxCell id="kHjujh8nvcX0chYIityc-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="Z5i6B7q4OmeHMnm3Mskc-9">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1370" y="-780" as="sourcePoint" />
-            <mxPoint x="1440" y="-450" as="targetPoint" />
+            <mxPoint x="1380" y="-780" as="sourcePoint" />
+            <mxPoint x="1230" y="-355" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="-520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kHjujh8nvcX0chYIityc-13" value="고객" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="820" y="-840" width="150" height="300" as="geometry">
+          <mxGeometry x="880" y="-950" width="150" height="300" as="geometry">
             <mxRectangle x="850" y="-830" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
