@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:08:40.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="27Ia2Wi8JTvNil6_x0ou" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:41:16.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uuga7Ke5LC7uQeveImzT" version="24.6.5" type="github" pages="3">
   <diagram name="페이지-1" id="vaQAqseoRmlYnzJwH8KV">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,7 +534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fix7OY3RnTEgvABlk70B" name="페이지-3">
-    <mxGraphModel dx="2299" dy="3288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4181" dy="4164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,7 +682,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ko2qRuRVBtHN7ZJIt-Cu-47" value="내선" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-500" width="150" height="210" as="geometry">
+          <mxGeometry x="-70" y="-660" width="150" height="210" as="geometry">
             <mxRectangle x="160" y="-430" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -925,7 +925,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9v0UEz1z82hvXh9fb3df-28" value="상담" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-1190" width="150" height="330" as="geometry" />
+          <mxGeometry x="880" y="-1319" width="150" height="330" as="geometry" />
         </mxCell>
         <mxCell id="9v0UEz1z82hvXh9fb3df-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="9v0UEz1z82hvXh9fb3df-28" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -1064,7 +1064,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z5i6B7q4OmeHMnm3Mskc-8" value="내보관함/QA함" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="-825" width="150" height="300" as="geometry" />
+          <mxGeometry x="1280" y="-840" width="150" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Z5i6B7q4OmeHMnm3Mskc-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="Z5i6B7q4OmeHMnm3Mskc-8" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -1190,7 +1190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cgWXPkljZ07_O2q9jskp-1" value="키워드검출" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-1280" width="150" height="150" as="geometry" />
+          <mxGeometry x="180" y="-1319" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cgWXPkljZ07_O2q9jskp-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="cgWXPkljZ07_O2q9jskp-1" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -1551,7 +1551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MdL200oLxiZvNIWPtNVc-1" value="키워드" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;aspect=fixed;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="-1290" width="150" height="320" as="geometry">
+          <mxGeometry x="-290" y="-1280" width="150" height="320" as="geometry">
             <mxRectangle x="200" y="-170" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2250,7 +2250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M8mAg2EckCEFcA9syHn8-39" value="로그이력" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="-255" width="150" height="180" as="geometry">
+          <mxGeometry x="-70" y="-360" width="150" height="180" as="geometry">
             <mxRectangle x="460" y="-280" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2329,7 +2329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M8mAg2EckCEFcA9syHn8-62" value="STT변환" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-1320" width="150" height="150" as="geometry" />
+          <mxGeometry x="530" y="-1540" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="M8mAg2EckCEFcA9syHn8-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="M8mAg2EckCEFcA9syHn8-62" vertex="1">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -2390,7 +2390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M8mAg2EckCEFcA9syHn8-89" value="다운로드이력" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-920" width="150" height="210" as="geometry">
+          <mxGeometry x="-60" y="-940" width="150" height="210" as="geometry">
             <mxRectangle x="460" y="-280" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
