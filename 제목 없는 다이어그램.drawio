@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T00:44:19.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gSXqRgigjv73G6mbQuQB" version="24.7.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-17T00:50:15.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EE-l9aB03nA80JtM1n_0" version="24.7.0" type="github" pages="4">
   <diagram name="페이지-1" id="vaQAqseoRmlYnzJwH8KV">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3146,7 +3146,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="페이지-3의 복사본" id="-fMkoRLLaXB23gDs1oFA">
+  <diagram name="STT_0717" id="-fMkoRLLaXB23gDs1oFA">
     <mxGraphModel dx="2096" dy="3446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Dq2eMRHrrNa6HaPOMtCK-0" />
@@ -4228,7 +4228,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq2eMRHrrNa6HaPOMtCK-241" value="키워드값" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Dq2eMRHrrNa6HaPOMtCK-239">
+        <mxCell id="Dq2eMRHrrNa6HaPOMtCK-241" value="키워드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Dq2eMRHrrNa6HaPOMtCK-239">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4241,7 +4241,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dq2eMRHrrNa6HaPOMtCK-244" value="그룹" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Dq2eMRHrrNa6HaPOMtCK-242">
+        <mxCell id="Dq2eMRHrrNa6HaPOMtCK-244" value="부서ID(그룹)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Dq2eMRHrrNa6HaPOMtCK-242">
           <mxGeometry x="30" width="120" height="20" as="geometry">
             <mxRectangle width="120" height="20" as="alternateBounds" />
           </mxGeometry>
