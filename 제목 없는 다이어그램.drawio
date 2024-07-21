@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T05:03:33.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Yz-jS1O5bTCni-Genr2G" version="24.7.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-21T05:12:04.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OZ2squClQaJxe-Azj72d" version="24.7.2" type="github" pages="9">
   <diagram name="페이지-1" id="vaQAqseoRmlYnzJwH8KV">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6813,7 +6813,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5v_v6EM02ps8WQu4pkFZ-1" value="화자분리음성파일" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;aspect=fixed;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-960" width="180" height="240" as="geometry">
+          <mxGeometry x="520" y="-840" width="180" height="240" as="geometry">
             <mxRectangle x="200" y="-170" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
