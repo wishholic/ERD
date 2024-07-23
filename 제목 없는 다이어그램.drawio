@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T06:02:30.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9j8DFeDHni8aS1cIbB3c" version="24.7.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-07-23T06:06:59.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tNWMPOLtQGrA16kDspXS" version="24.7.3" type="github" pages="9">
   <diagram name="페이지-1" id="vaQAqseoRmlYnzJwH8KV">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11900,7 +11900,7 @@
             <mxRectangle width="120" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cGIj4JEiBgtiDojZoroE-0" value="알림설정" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="L5L1nggjFU4kw59vg_xz-1" vertex="1">
+        <mxCell id="cGIj4JEiBgtiDojZoroE-0" value="알림/감청설정" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="L5L1nggjFU4kw59vg_xz-1" vertex="1">
           <mxGeometry x="360" y="-2160" width="150" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cGIj4JEiBgtiDojZoroE-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="cGIj4JEiBgtiDojZoroE-0" vertex="1">
@@ -12455,9 +12455,6 @@
               <mxPoint x="50" y="-2090" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NyW6HkPGAfuxqQwnJ2Oi-35" value="구분: 키워드, 감청,공지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L5L1nggjFU4kw59vg_xz-1">
-          <mxGeometry x="360" y="-2230" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
