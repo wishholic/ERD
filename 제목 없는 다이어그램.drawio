@@ -16274,7 +16274,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rx9VibDoTK7szZCCDceM-251" value="내선" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="rx9VibDoTK7szZCCDceM-1" vertex="1">
+        <mxCell id="rx9VibDoTK7szZCCDceM-251" value="내선이력" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" parent="rx9VibDoTK7szZCCDceM-1" vertex="1">
           <mxGeometry x="510" y="-760" width="150" height="420" as="geometry">
             <mxRectangle x="160" y="-430" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
