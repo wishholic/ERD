@@ -21997,7 +21997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuJI64-iPp9uVZ395Grm" name="사용자ERD">
-    <mxGraphModel dx="2433" dy="5406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23103,7 +23103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y8PYx3GyNADopYbyzipY-8" value="사용자/메뉴 ERD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="-3680" width="120" height="40" as="geometry" />
+          <mxGeometry x="-827" y="-3650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y8PYx3GyNADopYbyzipY-10" value="by 권영옥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-2400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
