@@ -22229,7 +22229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uEAb8JM012WyxEPvLiUZ-29" value="사용자" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#A8DADC;strokeColor=#457B9D;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="-488" y="-3120" width="150" height="330" as="geometry">
+          <mxGeometry x="-413" y="-3030" width="150" height="330" as="geometry">
             <mxRectangle x="460" y="-280" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
