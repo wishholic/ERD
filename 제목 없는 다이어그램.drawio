@@ -23730,7 +23730,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s6bro1z8OGZHOrZp_x2M-7" value="화자ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="s6bro1z8OGZHOrZp_x2M-5">
+        <mxCell id="s6bro1z8OGZHOrZp_x2M-7" value="화자구분코드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="s6bro1z8OGZHOrZp_x2M-5">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
