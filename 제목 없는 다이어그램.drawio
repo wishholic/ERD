@@ -26474,8 +26474,8 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TZykVne6B0oUjUFsGMWD-1" value="문장학습" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;aspect=fixed;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="680" width="150" height="270" as="geometry">
+        <mxCell id="TZykVne6B0oUjUFsGMWD-1" value="문장학습(보류)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="150" height="270" as="geometry">
             <mxRectangle x="200" y="-170" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -26719,7 +26719,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TZykVne6B0oUjUFsGMWD-38" value="키워드치환통계" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;aspect=fixed;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="150" height="450" as="geometry">
+          <mxGeometry x="320" y="160" width="150" height="450" as="geometry">
             <mxRectangle x="200" y="-170" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
