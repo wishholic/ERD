@@ -26381,7 +26381,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zunHE6p7c-TssIs0bYaj-23" value="키워드학습" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;aspect=fixed;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="150" height="330" as="geometry">
+          <mxGeometry x="360" y="120" width="150" height="330" as="geometry">
             <mxRectangle x="200" y="-170" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
