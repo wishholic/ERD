@@ -23112,7 +23112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="사용자ERD수정" id="SoaMwA6B0IJ64W9t_xEA">
-    <mxGraphModel dx="2487" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5zI64GjzvePxFxKdq9fQ-0" />
         <mxCell id="5zI64GjzvePxFxKdq9fQ-1" parent="5zI64GjzvePxFxKdq9fQ-0" />
@@ -25759,7 +25759,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="콜ERD수정" id="Ck3ovByjbgoMq7u_3Oal">
-    <mxGraphModel dx="3074" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="e8h0lLFhmBdklJMgQcHv-0" />
         <mxCell id="e8h0lLFhmBdklJMgQcHv-1" parent="e8h0lLFhmBdklJMgQcHv-0" />
@@ -26469,7 +26469,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e8h0lLFhmBdklJMgQcHv-166" value="구분" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="e8h0lLFhmBdklJMgQcHv-164">
+        <mxCell id="e8h0lLFhmBdklJMgQcHv-166" value="구분코드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="e8h0lLFhmBdklJMgQcHv-164">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
