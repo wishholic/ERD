@@ -26615,7 +26615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD_콜" id="Ck3ovByjbgoMq7u_3Oal">
-    <mxGraphModel dx="2247" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="5331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="e8h0lLFhmBdklJMgQcHv-0" />
         <mxCell id="e8h0lLFhmBdklJMgQcHv-1" parent="e8h0lLFhmBdklJMgQcHv-0" />
@@ -27584,8 +27584,8 @@
             <mxPoint x="-130" y="-2740" as="sourcePoint" />
             <mxPoint x="-39" y="-2683" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-200" y="-3115" />
-              <mxPoint x="-200" y="-2395" />
+              <mxPoint x="-210" y="-3115" />
+              <mxPoint x="-210" y="-2395" />
             </Array>
           </mxGeometry>
         </mxCell>
