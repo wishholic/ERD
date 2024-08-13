@@ -26614,8 +26614,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="콜ERD수정" id="Ck3ovByjbgoMq7u_3Oal">
-    <mxGraphModel dx="3078" dy="5279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="ERD_콜" id="Ck3ovByjbgoMq7u_3Oal">
+    <mxGraphModel dx="3074" dy="5408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="e8h0lLFhmBdklJMgQcHv-0" />
         <mxCell id="e8h0lLFhmBdklJMgQcHv-1" parent="e8h0lLFhmBdklJMgQcHv-0" />
