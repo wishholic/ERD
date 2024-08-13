@@ -28208,8 +28208,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="게시판ERD수정" id="YX0bfibymdkO7iR-62bK">
-    <mxGraphModel dx="2251" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="ERD_게시판" id="YX0bfibymdkO7iR-62bK">
+    <mxGraphModel dx="2247" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Y-cI2Mv7qYoWlp_9HwEQ-0" />
         <mxCell id="Y-cI2Mv7qYoWlp_9HwEQ-1" parent="Y-cI2Mv7qYoWlp_9HwEQ-0" />
@@ -29012,15 +29012,15 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mP1kSP6W0EuCYXyi3wV9-0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="Y-cI2Mv7qYoWlp_9HwEQ-177">
+        <mxCell id="mP1kSP6W0EuCYXyi3wV9-0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="Y-cI2Mv7qYoWlp_9HwEQ-177" vertex="1">
           <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mP1kSP6W0EuCYXyi3wV9-1" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="mP1kSP6W0EuCYXyi3wV9-0">
+        <mxCell id="mP1kSP6W0EuCYXyi3wV9-1" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="mP1kSP6W0EuCYXyi3wV9-0" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mP1kSP6W0EuCYXyi3wV9-2" value="키워드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="mP1kSP6W0EuCYXyi3wV9-0">
+        <mxCell id="mP1kSP6W0EuCYXyi3wV9-2" value="키워드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="mP1kSP6W0EuCYXyi3wV9-0" vertex="1">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -29114,7 +29114,7 @@
         <mxCell id="Y-cI2Mv7qYoWlp_9HwEQ-201" value="by 권영옥" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="Y-cI2Mv7qYoWlp_9HwEQ-1" vertex="1">
           <mxGeometry x="950" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mP1kSP6W0EuCYXyi3wV9-3" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;dashed=1;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Y-cI2Mv7qYoWlp_9HwEQ-1" source="Y-cI2Mv7qYoWlp_9HwEQ-82">
+        <mxCell id="mP1kSP6W0EuCYXyi3wV9-3" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;dashed=1;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Y-cI2Mv7qYoWlp_9HwEQ-1" source="Y-cI2Mv7qYoWlp_9HwEQ-82" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1030" y="140" as="sourcePoint" />
             <mxPoint x="980" y="270" as="targetPoint" />
