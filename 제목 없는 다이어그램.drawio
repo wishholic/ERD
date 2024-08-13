@@ -23326,10 +23326,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zI64GjzvePxFxKdq9fQ-248" value="사용자 ERD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="5zI64GjzvePxFxKdq9fQ-1" vertex="1">
+        <mxCell id="5zI64GjzvePxFxKdq9fQ-248" value="사용자 ERD" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=5" parent="5zI64GjzvePxFxKdq9fQ-1" vertex="1">
           <mxGeometry x="-827" y="-3650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5zI64GjzvePxFxKdq9fQ-249" value="by 권영옥" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="5zI64GjzvePxFxKdq9fQ-1" vertex="1">
+        <mxCell id="5zI64GjzvePxFxKdq9fQ-249" value="by 권영옥" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=5" parent="5zI64GjzvePxFxKdq9fQ-1" vertex="1">
           <mxGeometry x="420" y="-2400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1nz8ujBJkS6eQ3NkUyZ8-0" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;exitX=1.013;exitY=0.233;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=1.017;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="5zI64GjzvePxFxKdq9fQ-1" source="5zI64GjzvePxFxKdq9fQ-121" target="5zI64GjzvePxFxKdq9fQ-108" edge="1">
