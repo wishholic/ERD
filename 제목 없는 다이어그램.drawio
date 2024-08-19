@@ -21997,7 +21997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD_사용자" id="SoaMwA6B0IJ64W9t_xEA">
-    <mxGraphModel dx="2617" dy="6004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="5403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5zI64GjzvePxFxKdq9fQ-0" />
         <mxCell id="5zI64GjzvePxFxKdq9fQ-1" parent="5zI64GjzvePxFxKdq9fQ-0" />
@@ -23313,7 +23313,7 @@
             <mxPoint x="-710" y="-3075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5zI64GjzvePxFxKdq9fQ-242" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="5zI64GjzvePxFxKdq9fQ-1" source="5zI64GjzvePxFxKdq9fQ-25" target="5zI64GjzvePxFxKdq9fQ-6" edge="1">
+        <mxCell id="5zI64GjzvePxFxKdq9fQ-242" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" parent="5zI64GjzvePxFxKdq9fQ-1" source="5zI64GjzvePxFxKdq9fQ-25" target="5zI64GjzvePxFxKdq9fQ-6" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-570" y="-3390" as="sourcePoint" />
             <mxPoint x="-560" y="-3015" as="targetPoint" />
