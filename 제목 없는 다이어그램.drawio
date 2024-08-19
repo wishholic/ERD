@@ -26067,7 +26067,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ERD_기타" id="_FbDRhUNm6M9jyuYbxTx">
-    <mxGraphModel dx="1656" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mVi06KZ6bgZjDOfMf66H-0" />
         <mxCell id="mVi06KZ6bgZjDOfMf66H-1" parent="mVi06KZ6bgZjDOfMf66H-0" />
@@ -26352,7 +26352,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVi06KZ6bgZjDOfMf66H-67" value="사용여부" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="mVi06KZ6bgZjDOfMf66H-65" vertex="1">
+        <mxCell id="mVi06KZ6bgZjDOfMf66H-67" value="사용상태코드" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="mVi06KZ6bgZjDOfMf66H-65" vertex="1">
           <mxGeometry x="30" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
